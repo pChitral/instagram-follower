@@ -6,12 +6,11 @@ All you need is a web browser in order to use this code.
 
 ## Things to remember
 Use this code after clicking "See All" which sits right next to the "Suggestions For You", which gets displayed immediately as you log into you account using browser.
-However, this code works perfectly fine when run specifically for a user where the url looks like "https://www.instagram.com/{username of the account that you clicked}/similar_accounts/"
-
+However, this code works perfectly fine when run specifically for a user of your choice. For example, if you wish to follow users that my instagram account suggests, the url will look like "https://www.instagram.com/chitral_patil/similar_accounts/". Similarly, you can direclty replace my username "chitral_patil" with the your desired user. Not to mention a follow on my <a href="https://www.instagram.com/chitral_patil/">My Instagram Account</a> would also be nice. 
 
 ## NOTE  
 Overusing this code will have it's own ramifications so make sure that you don't follow more than 35 people in one go. 
-As a safety net, I've randomized the inerval between 2 sec and 3.5 sec. Feel free to do anything with the code but decrease the time interval.
+As a safety net, I've randomized the inerval between 2 sec and 3.5 sec. Feel free to change everything in the code but decrease the time interval.
 I am not responsible for any repurcussions from running this code. So please do your own due diligence. 
 
 
