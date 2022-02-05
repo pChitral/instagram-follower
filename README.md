@@ -1,7 +1,7 @@
 # Automatically Follow Users on Instagram
 ## How to use this?
 All you need is a web browser to use this code.
-1. Press <code>"Ctrl + shift + I"<code/> or manually open your browser's console.
+1. Press <code> "Ctrl + shift + I" <code/> or manually open your browser's console.
 2. Copy-paste the code from the instagramFollow.js file.
 
 ## Things to remember
